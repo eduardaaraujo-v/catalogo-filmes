@@ -1,3 +1,13 @@
 body{
-    background-color: rgb(198, 186, 186);
+    background-color: rgb(1, 22, 18);
+}
+.cabecalho{
+    margin-bottom: 0px;
+display: flex;
+justify-content: space-ground;
+aling-items: center;
+border: 2px solid green;
+background-image: url(wp9212011.jpg);
+background-size: cover;
+background-position: 50% 75%;
 }
